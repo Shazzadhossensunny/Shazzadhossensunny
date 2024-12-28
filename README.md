@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shazzadhossensunny&label=Profile%20views&color=0e75b6&style=flat" alt="shazzadhossensunny" /> </p>
 
-- 🌱 I’m currently learning **Next JS, TypeScript**
+- 🌱 I’m currently learning **Redux, Next JS**
 
 - 💬 Ask me about **Hi, I'm Shazzad Hossen, a passionate front-end developer who believes in the power of a well-coded website to tell a story. Over the past two years 6 month, my journey in coding has been driven by a deep passion for technology and design. What I’m Doing Now Currently, I am focused on building modern, responsive, and accessible web applications using a blend of cutting-edge technologies. I work extensively with HTML5, CSS3, and JavaScript to create seamless user experiences. My work with React, Node.js, and MongoDB allows me to develop robust full-stack applications. Skills I’ve Gained HTML5 & CSS3: Crafting clean, semantic markup and styles for scalable, maintainable front-end code. JavaScript & React: Developing dynamic, interactive user interfaces with a strong understanding of component-based architecture. Node.js & MongoDB: Building server-side applications and managing databases to ensure smooth and efficient data handling. Responsive Design: Ensuring that websites are mobile-friendly and perform well on all devices. UI/UX Design Principles: Applying a designer's eye to create balanced and visually appealing web pages. My Goal My goal is to continue pushing the boundaries of what’s possible on the web, creating innovative projects that combine aesthetic appeal with high performance. I am eager to tackle new challenges, learn emerging technologies, and bring creative ideas to life.**
 
