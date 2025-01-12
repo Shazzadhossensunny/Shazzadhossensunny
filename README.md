@@ -23,5 +23,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shazzadhossensunny&" alt="shazzadhossensunny" /></p>
+<p><img align="center" src=(https://github-readme-streak-stats.herokuapp.com?user=Shazzadhossensunny&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)" alt="shazzadhossensunny" /></p>
 
