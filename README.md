@@ -1,9 +1,23 @@
 [![Header](https://github.com/Shazzadhossensunny/Shazzadhossensunny/blob/main/github-banner.png)](https://shazzadhossensunny.github.io)
 
 <h1 align="center">Hi 👋, I'm Shazzad Hossen</h1>
-<h3 align="center">Full Stack Developer | Building Scalable Web Solutions</h3>
+<h3 align="center">Frontend Developer || Building seamless digital products with React, Next.js & TypeScript</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Full-Stack+Developer;React+%7C+Next.js+%7C+MongoDB+%7C+Prisma+%7C+Docker;Transforming+ideas+into+interactive+experiences" alt="Typing SVG" />
+</p>
+
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shazzadhossensunny&label=Profile%20views&color=0e75b6&style=flat" alt="shazzadhossensunny" />
+</p>
+
+🌱 I’m currently diving into Prisma, Docker, and scaling my expertise in Full-Stack Development
+
+💬 About Me:
+I'm Shazzad Hossen, a frontend-focused developer with a growing passion for backend tech and devops tools. With over 2.5 years of hands-on experience, I specialize in crafting modern, responsive, and performance-optimized web applications. I build intuitive UIs with React, Next.js, and TypeScript, and create robust backends using Node.js, Express, MongoDB, and Mongoose. 
 
 ### 🚀 Technical Expertise
 
@@ -57,11 +71,11 @@
 ### 📈 GitHub Stats
 
 <div align="center" style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center;">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shazzadhossensunny&theme=monokai&border_radius=10" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shazzadhossensunny&theme=tokyonight&border_radius=10" alt="GitHub Streak" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shazzadhossensunny&layout=compact&theme=monokai&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shazzadhossensunny&layout=compact&theme=tokyonighti&hide_border=true" alt="Top Languages" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shazzadhossensunny&show_icons=true&theme=monokai&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Shazzadhossensunny&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   </a>
 </div>
