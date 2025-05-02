@@ -70,7 +70,7 @@ I'm Shazzad Hossen, a frontend-focused developer with a growing passion for back
 ### 📈 GitHub Stats
 
 <div align="center" style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center;">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shazzadhossensunny&theme=windows-dark&border_radius=10" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Shazzadhossensunny" alt="GitHub Streak" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shazzadhossensunny&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
