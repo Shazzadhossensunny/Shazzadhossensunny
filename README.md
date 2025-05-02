@@ -1,26 +1,69 @@
-![logo](https://github.com/Shazzadhossensunny/Shazzadhossensunny/blob/main/github-banner.png)
+[![Header](https://github.com/Shazzadhossensunny/Shazzadhossensunny/blob/main/github-banner.png)](https://shazzadhossensunny.github.io)
+
 <h1 align="center">Hi 👋, I'm Shazzad Hossen</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Full Stack Developer | Building Scalable Web Solutions</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shazzadhossensunny&label=Profile%20views&color=0e75b6&style=flat" alt="shazzadhossensunny" /> </p>
+### 🚀 Technical Expertise
 
-- 🌱 I’m currently learning Next JS**
+- 🌱 **Currently Mastering**: Prisma | Docker | Next.js Advanced Patterns
+- 💡 **Core Stack**: MERN (MongoDB, Express, React, Node.js) | T3 Stack (Next.js, TypeScript, Tailwind)
+- 🛠 **Daily Drivers**: JavaScript/TypeScript | React Ecosystem | Node.js | RESTful APIs
+- 🧠 **Solid Foundation**: OOP | Functional Programming | Responsive Design | Web Performance
 
-- 💬 Ask me about **Hi, I'm Shazzad Hossen, a passionate front-end developer who believes in the power of a well-coded website to tell a story. Over the past two years 6 month, my journey in coding has been driven by a deep passion for technology and design. What I’m Doing Now Currently, I am focused on building modern, responsive, and accessible web applications using a blend of cutting-edge technologies. I work extensively with HTML5, CSS3, and JavaScript to create seamless user experiences. My work with React, Node.js, and MongoDB allows me to develop robust full-stack applications. Skills I’ve Gained HTML5 & CSS3: Crafting clean, semantic markup and styles for scalable, maintainable front-end code. JavaScript & React: Developing dynamic, interactive user interfaces with a strong understanding of component-based architecture. Node.js & MongoDB: Building server-side applications and managing databases to ensure smooth and efficient data handling. Responsive Design: Ensuring that websites are mobile-friendly and perform well on all devices. UI/UX Design Principles: Applying a designer's eye to create balanced and visually appealing web pages. My Goal My goal is to continue pushing the boundaries of what’s possible on the web, creating innovative projects that combine aesthetic appeal with high performance. I am eager to tackle new challenges, learn emerging technologies, and bring creative ideas to life.**
+### 🔥 Recent Focus Areas
+- Building full-stack applications with Next.js 14 App Router
+- Implementing TypeScript in large-scale projects
+- Containerization with Docker
+- Modern ORM solutions with Prisma
+- Optimizing MongoDB queries with Mongoose
 
-- 📫 How to reach me **shazzadhossensunny@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+### 📬 Let's Connect
 <p align="left">
-<a href="https://linkedin.com/in/shazzadhossensunny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shazzadhossensunny" height="30" width="40" /></a>
-<a href="https://fb.com/shazzadhossensani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shazzadhossensani" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/shazzadhossensunny" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="mailto:shazzadhossensunny@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+### 🛠 Technology Stack
 
+#### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<a href=""><img src="https://streak-stats.demolab.com/?user=Shazzadhossensunny&theme=monokai" alt="Shazzadhossensunny" /></a>
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
+#### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 📈 GitHub Stats
+
+<div align="center" style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Shazzadhossensunny&theme=monokai&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shazzadhossensunny&layout=compact&theme=monokai&hide_border=true" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Shazzadhossensunny&show_icons=true&theme=monokai&hide_border=true" alt="GitHub Stats" />
+  </a>
+</div>
