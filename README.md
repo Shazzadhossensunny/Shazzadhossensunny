@@ -59,7 +59,7 @@
 <div align="center" style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center;">
   <a href="https://git.io/streak-stats">
 <!--     <img src="https://streak-stats.demolab.com?user=Shazzadhossensunny&theme=monokai&hide_border=true&border_radius=10" alt="GitHub Streak" /> -->
-    <img src="https://streak-stats.demolab.com/?user=Shazzadhossensunny&theme=monokai&hide_border=true&border_radius=10"/>
+    <img src="https://streak-stats.demolab.com/?user=Shazzadhossensunny&layout=compact&theme=monokai&hide_border=true"/>
    
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
