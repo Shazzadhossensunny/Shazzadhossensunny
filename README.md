@@ -1,10 +1,10 @@
 [![Header](https://github.com/Shazzadhossensunny/Shazzadhossensunny/blob/main/github-banner.png)](https://shazzadhossensunny.github.io)
 
 <h1 align="center">Hi 👋, I'm Shazzad Hossen</h1>
-<h3 align="center">Frontend Developer || Building seamless digital products with React, Next.js & TypeScript</h3>
+<h3 align="center">Frontend Developer ||  Building Scalable Web Solutions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Full-Stack+Developer;React+%7C+Next.js+%7C+MongoDB+%7C;Transforming+ideas+into+interactive+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Frontend+Developer;React+%7C+Next.js+%7C+TypeScript+%7c+MongoDB+%7C;Transforming+ideas+into+interactive+experiences" alt="Typing SVG" />
 </p>
 
 
@@ -70,7 +70,7 @@ I'm Shazzad Hossen, a frontend-focused developer with a growing passion for back
 ### 📈 GitHub Stats
 
 <div align="center" style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center;">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shazzadhossensunny&theme=tokyonight-duo&border_radius=10" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shazzadhossensunny&theme=windows-dark&border_radius=10" alt="GitHub Streak" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shazzadhossensunny&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
