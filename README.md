@@ -4,7 +4,7 @@
 <h3 align="center">Frontend Developer || Building seamless digital products with React, Next.js & TypeScript</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Full-Stack+Developer;React+%7C+Next.js+%7C+MongoDB+%7C+Prisma+%7C+Docker;Transforming+ideas+into+interactive+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Full-Stack+Developer;React+%7C+Next.js+%7C+MongoDB+%7C;Transforming+ideas+into+interactive+experiences" alt="Typing SVG" />
 </p>
 
 
@@ -14,20 +14,19 @@
   <img src="https://komarev.com/ghpvc/?username=shazzadhossensunny&label=Profile%20views&color=0e75b6&style=flat" alt="shazzadhossensunny" />
 </p>
 
-🌱 I’m currently diving into Prisma, Docker, and scaling my expertise in Full-Stack Development
+🌱 I’m currently diving into Next.js Advanced Patterns, Prisma, Docker, and scaling my expertise in Full-Stack Development
 
 💬 About Me:
 I'm Shazzad Hossen, a frontend-focused developer with a growing passion for backend tech and devops tools. With over 2.5 years of hands-on experience, I specialize in crafting modern, responsive, and performance-optimized web applications. I build intuitive UIs with React, Next.js, and TypeScript, and create robust backends using Node.js, Express, MongoDB, and Mongoose. 
 
 ### 🚀 Technical Expertise
 
-- 🌱 **Currently Mastering**: Prisma | Docker | Next.js Advanced Patterns
 - 💡 **Core Stack**: MERN (MongoDB, Express, React, Node.js) | T3 Stack (Next.js, TypeScript, Tailwind)
 - 🛠 **Daily Drivers**: JavaScript/TypeScript | React Ecosystem | Node.js | RESTful APIs
-- 🧠 **Solid Foundation**: OOP | Functional Programming | Responsive Design | Web Performance
+- 🧠 **Solid Foundation**: Functional Programming | Responsive Design | Web Performance
 
 ### 🔥 Recent Focus Areas
-- Building full-stack applications with Next.js 14 App Router
+- Building full-stack applications with Next.js 
 - Implementing TypeScript in large-scale projects
 - Containerization with Docker
 - Modern ORM solutions with Prisma
@@ -73,7 +72,7 @@ I'm Shazzad Hossen, a frontend-focused developer with a growing passion for back
 <div align="center" style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center;">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shazzadhossensunny&theme=tokyonight&border_radius=10" alt="GitHub Streak" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shazzadhossensunny&layout=compact&theme=tokyonighti&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shazzadhossensunny&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Shazzadhossensunny&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
