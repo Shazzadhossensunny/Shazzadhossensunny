@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=shazzadhossensunny&label=Profile%20views&color=0e75b6&style=flat" alt="shazzadhossensunny" />
 </p>
 
-🌱 I’m currently diving into Next.js Advanced Patterns, Prisma, Docker, and scaling my expertise in Full-Stack Development
+🌱 I’m currently diving into PostgreSQL, Prisma, and scaling my expertise in Full-Stack Development
 
 💬 About Me:
 I'm Shazzad Hossen, a frontend-focused developer with a growing passion for backend tech and devops tools. With over 2.5 years of hands-on experience, I specialize in crafting modern, responsive, and performance-optimized web applications. I build intuitive UIs with React, Next.js, and TypeScript, and create robust backends using Node.js, Express, MongoDB, and Mongoose. 
